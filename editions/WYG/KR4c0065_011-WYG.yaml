@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0065/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 沈下賢文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:19:36.786216'
+  source:
+    repository: kanripo
+    path: KR4c0065/KR4c0065_011.txt
+hash: sha256:e99ad2dd43fd1b1f59711fa5696b11429a92133a4671d3df1078532524fa24ff
